@@ -1,0 +1,1 @@
+This script finds the valid input (`argv[1]`).
